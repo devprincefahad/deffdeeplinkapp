@@ -1,12 +1,11 @@
 [
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "dev.prince.deffdeeplinkapp",
-      "sha256_cert_fingerprints": [
-        "41:02:28:7A:E0:7B:F3:1D:9E:EA:F6:40:C2:86:8F:15:7E:63:1C:97:F5:CF:61:9F:9D:09:F4:ED:90:CA:E2:FB"
-      ]
-    }
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.prince.deffdeeplinkapp",
+    "sha256_cert_fingerprints":
+    ["41:02:28:7A:E0:7B:F3:1D:9E:EA:F6:40:C2:86:8F:15:7E:63:1C:97:F5:CF:61:9F:9D:09:F4:ED:90:CA:E2:FB"]
   }
+}
 ]
